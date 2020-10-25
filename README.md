@@ -8,5 +8,14 @@ Kindly contact us at ie.onyenwe@unizik.edu.ng if you would like to fund or be pa
 
 We promise to be updating this repo based on the progress of the project.
 
+# Contributors List:
+1. Dr Ikechukwu Onyenwe, Nnamdi Azikiwe University, Anambra, Nigeria.
+2. Okoli, Chukwunonyelum Esther, Nnamdi Azikiwe University, Anambra, Nigeria.
+3. Yakubu Bitrus Gali, Federal University of Kashere, Gombe, Nigeria.
+4. Adamu Yusuf, Nnamdi Azikiwe University, Anambra, Nigeria.
+5. Emmanuella Ogechukwu, Nnamdi Azikiwe University, Anambra, Nigeria.
+6. 
+7. 
+
 # Repo Content:
-This repo contains WAZOBỊA MulText data:
+So far, this repo contains WAZOBỊA MulText data:
