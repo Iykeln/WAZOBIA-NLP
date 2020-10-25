@@ -21,10 +21,11 @@ We promise to be updating this repo based on the progress of the project.
 So far, this repo contains WAZOBỊA MulText data:
 
 
-| Lang Name     | \# of Words   |
-| ------------- | ------------- |
-| Pivotal Langauage             |
-| English (en)  | Content Cell  |
-| WAZOBỊA Langs                 |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Lang Name     | \# of Words   | \# of Sentencs|
+| ------------- | ------------- | ------------- |
+| # Pivotal Lang                                |
+| English (en)  | 3406          | 170           |
+| # WAZOBỊA Langs                               |
+| Content Cell  | 3869          | 170           |
+| Content Cell  | 2821          | 170           |
+| Content Cell  | 3572          | 170           |
