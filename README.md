@@ -14,7 +14,7 @@ We promise to be updating this repo based on the progress of the project.
 3. Yakubu Bitrus Gali, Federal University of Kashere, Gombe, Nigeria.
 4. Adamu Yusuf, Nnamdi Azikiwe University, Anambra, Nigeria.
 5. Emmanuella Ogechukwu, Nnamdi Azikiwe University, Anambra, Nigeria.
-6. 
+6. Aliu Oladimeji Shodunke, University of Ilorin, Ilorin, Nigeria.
 7. 
 
 # Repo Content:
