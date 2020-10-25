@@ -23,9 +23,9 @@ So far, this repo contains WAZOBỊA MulText data:
 
 | Lang Name     | \# of Words   | \# of Sentencs|
 | ------------- | ------------- | ------------- |
-| # Pivotal Lang                                |
+| Pivotal Lang                                  |
 | English (en)  | 3406          | 170           |
-| # WAZOBỊA Langs                               |
-| Content Cell  | 3869          | 170           |
-| Content Cell  | 2821          | 170           |
-| Content Cell  | 3572          | 170           |
+| WAZOBỊA Langs                                 |
+| Yoruba (yo)   | 3869          | 170           |
+| Housa (ha)    | 2821          | 170           |
+| Igbo (ig)     | 3572          | 170           |
