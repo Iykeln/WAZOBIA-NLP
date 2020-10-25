@@ -21,11 +21,11 @@ We promise to be updating this repo based on the progress of the project.
 So far, this repo contains WAZOBỊA MulText data:
 
 
-| Lang Name     | \# of Words   | \# of Sentencs|
-| ------------- | ------------- | ------------- |
-| Pivotal Lang                                  |
-| English (en)  | 3406          | 170           |
-| WAZOBỊA Langs                                 |
-| Yoruba (yo)   | 3869          | 170           |
-| Housa (ha)    | 2821          | 170           |
-| Igbo (ig)     | 3572          | 170           |
+| Lang Name     | \# of Words   | \# of Sentencs| \# of Speakers|
+| ------------- | ------------- | ------------- | ------------- |
+| Pivotal Lang                                  |               |
+| English (en)  | 3406          | 170           |               |
+| WAZOBỊA Langs                                 |               |
+| Yoruba (yo)   | 3869          | 170           | ~47 million   |
+| Housa (ha)    | 2821          | 170           | ~67 million   |
+| Igbo (ig)     | 3572          | 170           | ~42 million   |
