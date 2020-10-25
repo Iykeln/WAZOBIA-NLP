@@ -15,7 +15,7 @@ We promise to be updating this repo based on the progress of the project.
 4. Adamu Yusuf, Nnamdi Azikiwe University, Anambra, Nigeria.
 5. Emmanuella Ogechukwu, Nnamdi Azikiwe University, Anambra, Nigeria.
 6. Aliu Oladimeji Shodunke, University of Ilorin, Ilorin, Nigeria.
-7. 
+7. Dr Ebele Deborah Uba, Nnamdi Azikiwe University, Anambra, Nigeria.
 
 # Repo Content:
 So far, this repo contains WAZOBỊA MulText data:
