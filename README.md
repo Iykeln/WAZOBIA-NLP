@@ -10,12 +10,15 @@ We promise to be updating this repo based on the progress of the project.
 
 # Contributors List:
 1. Dr Ikechukwu Onyenwe, Nnamdi Azikiwe University, Anambra, Nigeria.
-2. Okoli, Chukwunonyelum Esther, Nnamdi Azikiwe University, Anambra, Nigeria.
-3. Yakubu Bitrus Gali, Federal University of Kashere, Gombe, Nigeria.
-4. Adamu Yusuf, Nnamdi Azikiwe University, Anambra, Nigeria.
-5. Emmanuella Ogechukwu, Nnamdi Azikiwe University, Anambra, Nigeria.
-6. Aliu Oladimeji Shodunke, University of Ilorin, Ilorin, Nigeria.
-7. Dr Ebele Deborah Uba, Nnamdi Azikiwe University, Anambra, Nigeria.
+2. Prof CHINEDU UCHECHUKWU, Nnamdi Azikiwe University, Anambra, Nigeria.
+3. PROF. PAUL RAYSON, Lancaster University, UK.
+4. Dr. TUNDE ADEGBOLA, head of African Languages Technology Initiative, Nigeria.
+5. Okoli, Chukwunonyelum Esther, Nnamdi Azikiwe University, Anambra, Nigeria.
+6. Yakubu Bitrus Gali, Federal University of Kashere, Gombe, Nigeria.
+7. Adamu Yusuf, Nnamdi Azikiwe University, Anambra, Nigeria.
+8. Emmanuella Ogechukwu, Nnamdi Azikiwe University, Anambra, Nigeria.
+9. Aliu Oladimeji Shodunke, University of Ilorin, Ilorin, Nigeria.
+10. Dr Ebele Deborah Uba, Nnamdi Azikiwe University, Anambra, Nigeria.
 
 # Repo Content:
 So far, this repo contains WAZOBỊA MulText data:
