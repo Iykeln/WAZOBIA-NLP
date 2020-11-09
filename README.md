@@ -10,8 +10,8 @@ We promise to be updating this repo based on the progress of the project.
 
 # Contributors List:
 1. Dr Ikechukwu Onyenwe, Nnamdi Azikiwe University, Anambra, Nigeria.
-2. Prof CHINEDU UCHECHUKWU, Nnamdi Azikiwe University, Anambra, Nigeria.
-3. PROF. PAUL RAYSON, Lancaster University, UK.
+2. PROF. PAUL RAYSON, Lancaster University, UK. 
+3. Prof CHINEDU UCHECHUKWU, Nnamdi Azikiwe University, Anambra, Nigeria.
 4. Dr. TUNDE ADEGBOLA, head of African Languages Technology Initiative, Nigeria.
 5. Okoli, Chukwunonyelum Esther, Nnamdi Azikiwe University, Anambra, Nigeria.
 6. Yakubu Bitrus Gali, Federal University of Kashere, Gombe, Nigeria.
